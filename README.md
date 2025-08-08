@@ -4,7 +4,7 @@ A Python CLI to scan your Mac for common security concerns using system checks a
 
 ## Setup (uv)
 
-- Requires Python 3.10+
+- Requires Python 3.11+
 - Uses `uv` for environment and installs
 
 Commands:

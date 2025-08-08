@@ -7,7 +7,7 @@ name = "macsecscan"
 version = "0.1.0"
 description = "Scan your Mac for security concerns from the command line."
 readme = "README.md"
-requires-python = ">=3.10"
+requires-python = ">=3.11"
 license = { text = "MIT" }
 authors = [
   { name = "Ugochi Jones", email = "ugochi@jonestechnicalenterprises.com" }
